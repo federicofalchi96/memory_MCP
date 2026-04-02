@@ -1,0 +1,7 @@
+# Core MCP
+
+mcp
+
+# Env config
+
+python-dotenv
